@@ -10,7 +10,7 @@
     font-size: 6rem;
   }
   .secondSection {
-    height: 90vh;
+    height: 120vh;
   }
   .rightSection img {
     height: 600px;
@@ -68,7 +68,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 110vh;
+    height: 160vh;
   }
   .rightSection img {
     width: 45vw;
@@ -124,7 +124,7 @@
     font-size: 2rem;
   }
   .secondSection {
-    height: 150vh;
+    height: 190vh;
     width: 600px;
   }
   .rightSection img {
@@ -236,7 +236,7 @@
     margin-left: -350px;
   }
   .secondSection {
-    height: 180vh;
+    height: 220vh;
     width: 30px;
   }
 
@@ -318,7 +318,7 @@
     border-radius: 1%;
   }
   .secondSection {
-    height: 210vh;
+    height: 280vh;
     width: 30px;
   }
 }
