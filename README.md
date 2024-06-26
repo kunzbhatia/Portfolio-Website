@@ -33,11 +33,6 @@ This portfolio website serves as an interactive platform to display my professio
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (optional - if you used it in your project)
-- React (optional - if you used it in your project)
-- Node.js (optional - if you used it in your project)
-- Express.js (optional - if you used it in your project)
-- MongoDB (optional - if you used it in your project)
 
 ## Contributing
 
